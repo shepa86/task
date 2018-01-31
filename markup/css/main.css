@@ -1249,6 +1249,10 @@ input:not([type="submit"]):not([type="reset"]):focus {
 		margin: 0 auto 60px;
 	}
 
+	.article-item .img-holder {
+		margin-right: 0;
+	}
+
 	.cta-box .icon-arrow_right {
 		font-size: 26px;
 		line-height: 26px;

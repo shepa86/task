@@ -256,6 +256,9 @@ input:not([type="submit"]):not([type="reset"]) {
 				right: 100%;
 			}
 		}
+		@include media ('<desktop') {
+			margin-right: 0;
+		}
 	}
 
 	p {
